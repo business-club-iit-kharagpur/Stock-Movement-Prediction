@@ -3,7 +3,7 @@
 We will attempt to predict the movement of the NIFTY index in the next trading session by learning from historical data. 
 Other than the standard OLHCV (Open, Low, High, Close, Volume) data obtained from the National Stock Exchange website, we have calculated the values of a number of indicators:
 
-#### 1.Ultimate Oscillator (UO)
+#### 1. Ultimate Oscillator (UO)
 #### 2. Ulcer Index (UI)
 #### 3. Pring's know sure thing (KST)
 #### 4. Relative Vigour Index (RVI)
