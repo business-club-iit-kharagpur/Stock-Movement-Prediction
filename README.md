@@ -26,3 +26,10 @@ Other than the standard OLHCV (Open, Low, High, Close, Volume) data obtained fro
 #### 21. Commodity Channel Index (CCI)
 
 We have trained on this data by constructing a Neural Network using TensorFlow
+
+Contributors
+1. Chinmay Singh
+2. Sayantan Das
+3. Varun Madhavan
+4. Yash Kulkarni
+5. Manasi Bandhaokar
